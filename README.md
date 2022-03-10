@@ -1,7 +1,10 @@
-# Halo semua! 
+### Hi! 👋 I'm Yusuf.
 
 Perkenalkan nama saya **Muhammad Yusuf Hijriah**.
 Saya seorang **Mahasiswa** di Universitas Bumigora.
+
+### Languages, Frameworks :
+<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-yusuf-hijriah/)ku ya.
 
